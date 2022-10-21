@@ -1,4 +1,12 @@
 {
+    "authors": [
+        {
+            "name": "Huang Jia Yi",
+            "email": "3a932117@gm.student.ncut.edu.tw"
+        }
+    ],
     "name": "ncut/lara_0804_p",
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.40"
+    }
 }
